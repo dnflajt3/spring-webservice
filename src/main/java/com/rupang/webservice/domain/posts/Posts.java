@@ -1,4 +1,4 @@
-package com.rupang.webservice.domain;
+package com.rupang.webservice.domain.posts;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
